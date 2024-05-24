@@ -13,6 +13,7 @@
 
 ![image](https://hackmd.io/_uploads/HJN3k70mR.png)
 - exemplo de codigo (**FEC**):
+
 ![image](https://hackmd.io/_uploads/r1stW7CXC.png)
 
 
