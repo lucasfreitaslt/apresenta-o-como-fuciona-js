@@ -37,6 +37,7 @@
 - O mecanismo JavaScript executa o código linha por linha.
 * As variáveis recebem valores e as funções são executadas à medida que o código é executado.
 - exemplo:
+
 ![image](https://hackmd.io/_uploads/Sk2PbIMEA.png)
 
 
