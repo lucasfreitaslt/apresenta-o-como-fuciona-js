@@ -15,6 +15,29 @@
 - exemplo de codigo (**FEC**):
 
 ![image](https://hackmd.io/_uploads/r1stW7CXC.png)
+ **Criação do Objeto Variável (VO)**
+ - Objeto Variável (VO): E um conceito abstrato que representa o armazenamento de variáveis, declarações de função e parâmetros de função dentro de um contexto de execução.
+
+**topico 3**
+
+**Fases de Criação do Contexto de Execução**
+
+1. **fase de criação**
+ - Durante esta fase, o mecanismo JavaScript executa as seguintes etapas:
+  
+*  Cria o objeto variável.
+*  configura a cadeia de escopo.
+* Determina o valor de "**this**"
+* declarações *Hoists* e declarações de variáveis.
+- **elevação:**
+
+* As declarações de função são adicionadas ao Objeto Variável com suas definições.
+* As declarações de variáveis são adicionadas ao Objeto Variável com um valor inicial de undefined.
+2. **fase de execução:**
+- O mecanismo JavaScript executa o código linha por linha.
+* As variáveis recebem valores e as funções são executadas à medida que o código é executado.
+- exemplo:![image](https://hackmd.io/_uploads/Sk2PbIMEA.png)
+
 
 
 
